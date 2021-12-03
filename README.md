@@ -7,10 +7,17 @@ A Passionate Data Scientist
           ![Screenshot](data-science.png)
            
            
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Deep Learning
+- 🤝 I’m looking for help with Python,Data Science,Machine Learning
+- 💬 Ask me about Data Science And Machine Learning
+- 📫 How to reach me Email:anupamarindhe234@gmail.com
+-
+
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/anupama-rindhe-102285141/
 
 
 
