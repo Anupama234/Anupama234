@@ -1,5 +1,6 @@
 - 👋 Hello there 👋 I'm Anupama
            A Passionate Data Scientist
+          ![Screenshot](data-science.png)
            
            
 - 👀 I’m interested in ...
