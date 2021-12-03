@@ -1,18 +1,17 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+**I m Anupama**
 
-
-- I'm Anupama
-
-A Passionate Data Scientist
+**A Passionate Data Scientist**
           ![Screenshot](data-science.png)
            
            
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Deep Learning
-- 🤝 I’m looking for help with Python,Data Science,Machine Learning
-- 💬 Ask me about Data Science And Machine Learning
-- 📫 How to reach me Email:anupamarindhe234@gmail.com
--
+- 🌱 I’m currently learning **Deep Learning**
+- 🤝 I’m looking for help with **Python,Data Science,Machine Learning**
+- 💬 Ask me about **Data Science And Machine Learning**
+- 📫 How to reach me Email:**anupamarindhe234@gmail.com**
+
+**Connect with me**:
 
 
 <!-- Links to your social media accounts -->
