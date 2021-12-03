@@ -23,7 +23,7 @@ A Passionate Data Scientist
 
 -[![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anupama234)](https://github.com/Anupama234/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama234)](https://github.com/Anupama234/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupama234&layout=compact)](https://github.com/Anupama234/github-readme-stats)
 
 <!---
 Anupama234/Anupama234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
