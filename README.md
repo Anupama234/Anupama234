@@ -5,7 +5,7 @@
           ![Screenshot](data-science.png)
            
            
-- 👀 I’m interested in 
+- 👀 I’m interested in **Learning New Skills**
 - 🌱 I’m currently learning **Deep Learning**
 - 🤝 I’m looking for help with **Python,Data Science,Machine Learning**
 - 💬 Ask me about **Data Science And Machine Learning**
