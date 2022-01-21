@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Deep Learning**
 - 🤝 I’m looking for help with **Python,Data Science,Machine Learning**
 - 💬 Ask me about **Data Science And Machine Learning**
-- 📫 How to reach me Email:**anupamarindhe234@gmail.com**
+- 📫 How to reach me Email:**anupamarindhe9@gmail.com**
 
 **Connect with me**
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anupama-rindhe-102285141/)
